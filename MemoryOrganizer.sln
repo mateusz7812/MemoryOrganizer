@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MemoryOrganizer", "MemoryOrganizer\MemoryOrganizer.csproj", "{19B28620-ED54-4DC2-B9D9-0736853800B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{4F566923-392D-45C2-86C4-6E092740CF77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B28620-ED54-4DC2-B9D9-0736853800B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B28620-ED54-4DC2-B9D9-0736853800B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B28620-ED54-4DC2-B9D9-0736853800B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B28620-ED54-4DC2-B9D9-0736853800B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F566923-392D-45C2-86C4-6E092740CF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F566923-392D-45C2-86C4-6E092740CF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F566923-392D-45C2-86C4-6E092740CF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F566923-392D-45C2-86C4-6E092740CF77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {085A5FC7-172D-4DAD-BDB9-C541042E9418}
+	EndGlobalSection
+EndGlobal

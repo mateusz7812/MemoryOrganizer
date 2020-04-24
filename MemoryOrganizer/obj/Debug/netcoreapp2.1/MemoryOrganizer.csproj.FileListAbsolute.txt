@@ -1,0 +1,12 @@
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\bin\Debug\netcoreapp2.1\MemoryOrganizer.deps.json
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\bin\Debug\netcoreapp2.1\MemoryOrganizer.runtimeconfig.json
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\bin\Debug\netcoreapp2.1\MemoryOrganizer.runtimeconfig.dev.json
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\bin\Debug\netcoreapp2.1\MemoryOrganizer.dll
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\bin\Debug\netcoreapp2.1\MemoryOrganizer.pdb
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\obj\Debug\netcoreapp2.1\MemoryOrganizer.csprojAssemblyReference.cache
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\obj\Debug\netcoreapp2.1\MemoryOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\obj\Debug\netcoreapp2.1\MemoryOrganizer.AssemblyInfoInputs.cache
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\obj\Debug\netcoreapp2.1\MemoryOrganizer.AssemblyInfo.cs
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\obj\Debug\netcoreapp2.1\MemoryOrganizer.dll
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\obj\Debug\netcoreapp2.1\MemoryOrganizer.pdb
+C:\Users\HP Envy\source\repos\MemoryOrganizer\MemoryOrganizer\obj\Debug\netcoreapp2.1\MemoryOrganizer.genruntimeconfig.cache
